@@ -1,0 +1,11 @@
+# Optional later stages; install PyTorch separately for your hardware.
+-r requirements.txt
+scikit-learn
+onnx
+onnxruntime
+onnxscript
+matplotlib
+streamlit
+rasterio
+pystac-client
+planetary-computer
