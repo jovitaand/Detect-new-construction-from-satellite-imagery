@@ -1,4 +1,4 @@
-# Space42 interview project: Building Change Review
+# Detect-new-construction-from-satellite-imagery
 
 A learning prototype to flag building-related changes in paired overhead images for analyst review. Independent portfolio project; not affiliated with Space42.
 
